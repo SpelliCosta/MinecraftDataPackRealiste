@@ -1,0 +1,19 @@
+{
+       "type": "crafting_shaped",
+       "pattern": [
+           "XXX",
+           "XTX",
+           "XXX"
+       ],
+       "key": {
+           "X": {
+               "item": "minecraft:cobblestone"
+           },
+           "T": {
+               "item": "minecraft:flint_and_steel"
+           }
+       },
+       "result": {
+           "item": "minecraft:furnace"
+       }
+}

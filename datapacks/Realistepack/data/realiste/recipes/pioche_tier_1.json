@@ -1,0 +1,19 @@
+{
+       "type": "crafting_shaped",
+       "pattern": [
+           "XXX",
+           "XTX",
+           " T "
+       ],
+       "key": {
+           "X": {
+               "item": "minecraft:oak_log"
+           },
+           "T": {
+               "item": "minecraft:stick"
+           }
+       },
+       "result": {
+           "item": "minecraft:wooden_pickaxe"
+       }
+}

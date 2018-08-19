@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:stone"
+    },
+    "result": "minecraft:stone",
+    "cookingtime": 1,
+	"experience": 1.0
+}
